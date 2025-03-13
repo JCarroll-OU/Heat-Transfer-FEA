@@ -1,5 +1,5 @@
 # Heat Transfer FEA
-![Image1](/Heat-Transfer-FEA/Images/Image1.png)
+![Image1](/Images/Image1.png)
 A basic finite element analysis for transient heat transfer (with heat generation) within python.
 
 WIP:
