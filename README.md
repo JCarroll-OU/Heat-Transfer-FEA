@@ -1,2 +1,12 @@
-# Heat-Transfer-FEA
-Python script(s) to demonstrate basic application of finite element analysis for heat transfer analysis.
+# Heat Transfer FEA
+![Image1](/Images/Image1.png)
+A basic finite element analysis for transient heat transfer (with heat generation) within python.
+
+WIP:
+  - Heat generation feature has not been tested.
+  - Heat conduction seems to occur with left-ward bias (region to the left is hotter than it should be).
+  - External node T_{i + 1} equation generation appears to be incorrect.
+  - Heat transfer to 'environment' nodes does not seem to be working.
+
+A lot more math is required to complete this project, once midterms are over I will try to update it. 
+Thanks for reading me!
